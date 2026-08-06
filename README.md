@@ -1,2 +1,2 @@
 # Coding_Journey
-Representation of my coding journey through my college years
+Representation of our coding journey throughout our college years
